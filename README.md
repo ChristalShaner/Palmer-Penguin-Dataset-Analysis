@@ -1,4 +1,4 @@
-Palmer Penguin Data Analysis & Dashboard
+## Palmer Penguin Data Analysis & Dashboard
 
 ## Overview
 
