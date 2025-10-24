@@ -2,6 +2,8 @@ Palmer Penguin Data Analysis & Dashboard
 
 ## Overview
 
+
+
 This project explores the **Palmer Penguins dataset**, a popular dataset for exploring penguin morphology, ecology, and distribution. Using **Power BI**, we created an interactive dashboard to analyze penguin traits such as **bill length, bill depth, flipper length, and body mass**, and to visualize relationships across **species, island, and sex**.
 
 The goal of this project is to **gain insights into penguin morphology and ecological patterns** while practicing data visualization and dashboard creation in Power BI.
